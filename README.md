@@ -1,2 +1,2 @@
-# C++-practice
-CodeWars for C++ practice!
+# C++ practice problems
+CodeWars for C++!
