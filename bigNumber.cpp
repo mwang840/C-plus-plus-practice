@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <math.h>
 using namespace std;
 int totalDigits(int value){
   if(value == 0){

@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "xstring": "cpp",
         "map": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "bits/stdc++": "cpp"
+        
     }
 }
