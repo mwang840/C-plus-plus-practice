@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <iostream>
 #include <vector>
+#include <string>
 using namespace std;
 string likes(vector<string> names)
 {
@@ -22,3 +23,4 @@ string likes(vector<string> names)
   }
   return liked;
 }
+

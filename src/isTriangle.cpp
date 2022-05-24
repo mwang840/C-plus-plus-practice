@@ -1,4 +1,5 @@
 #include <math.h>
+#include <iostream>
 using namespace std;
 namespace Triangle
 {
@@ -24,4 +25,18 @@ namespace Triangle
     }
     
   }
+  int main(){
+    int h1, h2, h3;
+    bool pointed;
+    std::cout << "Enter three heights\n";
+    cin>>h1;
+    std::cout<<"\n";
+    cin>>h2;
+    std::cout<<"\n";
+    cin>>h3;
+    std::cout<<"\n";
+    pointed = isTriangle(h1, h2, h3);
+    std::cout << pointed<< "The triangle is, " <<" a triangle" || "not a triangle ";
+}
+
 };
