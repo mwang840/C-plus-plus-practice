@@ -1,5 +1,6 @@
 #include <math.h>
 #include <iostream>
+#include <windows.h>
 using namespace std;
 namespace Triangle
 {
